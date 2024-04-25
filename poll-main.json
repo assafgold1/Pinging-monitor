@@ -1,0 +1,102 @@
+[
+  {
+    "number": 1,
+    "ip-address": "192.168.1.1",
+    "AddressType": "IPv4Address",
+    "owner": "John",
+    "group": "customers",
+    "active": true,
+    "ServerType": "Web Server",
+    "ServerOperitengSystem": "windows"
+  },
+  {
+    "number": 2,
+    "ip-address": "ext.taninoni.com",
+    "AddressType": "Url",
+    "owner": "Alice",
+    "group": "staff",
+    "active": true,
+    "ServerType": "Database Server",
+    "ServerOperitengSystem": "windows"
+  },
+  {
+    "number": 3,
+    "ip-address": "2001:0db8:85a3:0000:0000:8a2e:0370:7334",
+    "AddressType": "IPv6Address",
+    "owner": "Bob",
+    "group": "customers",
+    "active": false,
+    "ServerType": "Application Server",
+    "ServerOperitengSystem": "windows"
+  },
+  {
+    "number": 4,
+    "ip-address": "ext.taninoni.com",
+    "AddressType": "Url",
+    "owner": "assaf",
+    "group": "staff",
+    "active": true,
+    "ServerType": "Web Server",
+    "ServerOperitengSystem": "netlify"
+  },
+  {
+    "number": 4,
+    "ip-address": "ext.taninoni.com",
+    "AddressType": "Url",
+    "owner": "assaf",
+    "group": "staff",
+    "active": true,
+    "ServerType": "Web Server",
+    "ServerOperitengSystem": "netlify"
+  },
+  {
+    "number": 4,
+    "ip-address": "ext.taninoni.com",
+    "AddressType": "Url",
+    "owner": "assaf",
+    "group": "staff",
+    "active": true,
+    "ServerType": "Web Server",
+    "ServerOperitengSystem": "netlify"
+  },
+  {
+    "number": 4,
+    "ip-address": "ext.taninoni.com",
+    "AddressType": "Url",
+    "owner": "assaf",
+    "group": "staff",
+    "active": true,
+    "ServerType": "Web Server",
+    "ServerOperitengSystem": "netlify"
+  },
+  {
+    "number": 4,
+    "ip-address": "ext.taninoni.com",
+    "AddressType": "Url",
+    "owner": "assaf",
+    "group": "staff",
+    "active": true,
+    "ServerType": "Web Server",
+    "ServerOperitengSystem": "netlify"
+  },
+  {
+    "number": 4,
+    "ip-address": "ext.taninoni.com",
+    "AddressType": "Url",
+    "owner": "assaf",
+    "group": "staff",
+    "active": true,
+    "ServerType": "Web Server",
+    "ServerOperitengSystem": "netlify"
+  },
+  {
+    "number": 10,
+    "ip-address": "ss",
+    "AddressType": "Url",
+    "owner": "Unknown",
+    "group": "Unknown",
+    "active": true,
+    "ServerType": "Unknown",
+    "ServerOperitengSystem": "Unknown"
+  }
+]
